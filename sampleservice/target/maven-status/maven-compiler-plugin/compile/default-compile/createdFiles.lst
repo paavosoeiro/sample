@@ -1,0 +1,8 @@
+com\poc\sampleservice\controller\SampleController.class
+com\poc\sampleservice\model\Sample$SampleBuilder.class
+com\poc\sampleservice\model\ErrorMessage.class
+com\poc\sampleservice\configuration\SampleControllerAdvice.class
+com\poc\sampleservice\model\Sample.class
+com\poc\sampleservice\SampleserviceApplication.class
+com\poc\sampleservice\service\SampleService.class
+com\poc\sampleservice\model\SampleNotFoundException.class
