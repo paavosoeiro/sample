@@ -1,6 +1,6 @@
 docker network create mongonetwork
 
-dcoker volume create mongovolume
+docker volume create mongovolume
 
 docker run -d --network mongonetwork -h mongo --name mongo -e MONGO_INITDB_ROOT_USERNAME=mongoadmin -e MONGO_INITDB_ROOT_PASSWORD=secret -p 27017:27017 -v mongovolume:/data/db mongo:latest
 
