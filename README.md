@@ -31,6 +31,7 @@ docker run -d --network mongonetwork -e ME_CONFIG_MONGODB_SERVER=mongo -e ME_CON
 * https://docs.spring.io/spring-cloud-contract/docs/current/reference/html/project-features.html#features-wiremock-registering-stubs
 * https://wiremock.org/docs/stubbing/
 * https://wiremock.org/docs/request-matching/
+* https://github.com/Genc/spring-boot-boilerplate/tree/master/src/main/java/com/farukgenc/boilerplate/springboot
 
 ## urls
 http://localhost:8080/ws/sample/sample-service.wsdl
